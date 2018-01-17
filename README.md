@@ -1,10 +1,8 @@
-## UCB-Project1
-
 ## UCB-Coding Bootcamp-Data Analytics-Project 1 
 
 ### Project Title - Assessing homelessness versus real estate prices in Silicon Valley since the 2008 recession (10 years of data).
 
-Team Members â€“ Lei, Jagatha, Angela and Weiming
+Team Members - Lei, Jagatha, Angela and Weiming
 
 Project Description/Outline - For this project we will be compiling real estate data from Zillow and correlate it to the homelessness data compiled from the U.S. Department of Housing and Urban Development (HUD Exchange Site) for the past decade, focusing primarily on the Silicon Valley region.
 
