@@ -27,8 +27,7 @@ https://www.hudexchange.info/programs/coc/coc-homeless-populations-and-subpopula
 ### References:
 Bussed Out - How American moves its Homeless (article) . The Guardian. Published online: 20 December 2017 https://www.theguardian.com/us-news/ng-interactive/2017/dec/20/bussed-out-america-moves-homeless-people-country-study 
 
-### Homelessness in the United States: 
-Trends and demographics (article). Journalist’s Resource. Harvard Kennedy School Shorenstein Center on Media, Politics and Public Policy. Published online: 4 December 2014 https://journalistsresource.org/studies/government/health-care/homelessness-u-s-trends-demographics
+Homelessness in the United States: Trends and demographics (article). Journalist’s Resource. Harvard Kennedy School Shorenstein Center on Media, Politics and Public Policy. Published online: 4 December 2014 https://journalistsresource.org/studies/government/health-care/homelessness-u-s-trends-demographics
 
 ### Rough Breakdown of Tasks:
 1. Search for homelessness and real estate estate datasets - HUD and Zillow.
