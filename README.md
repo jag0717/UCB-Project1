@@ -1,8 +1,8 @@
-UCB Project I Proposal
+## UCB Project I Proposal
 
-Project Title - A decadal survey on the impact of real estate prices on homelessness in eighteen major cities in the USA (2007-2017)  
+## Project Title - A decadal survey on the impact of real estate prices on homelessness in eighteen major cities in the USA (2007-2017)  
 
-Team Members – Lei, Jagatha, Angela and Weiming
+## Team Members – Lei, Jagatha, Angela and Weiming
 
 Project Description/Outline - For this project we utilized real estate data compiled by Zillow’s Economic Research team made available on Kaggle (Zillow Economics Data), and correlated it to Point-In-Time (PIT) estimates of homelessness compiled by the U.S. Department of Housing and Urban Development (HUD Exchange Site).  We chose to look at the correlation between homelessness and local real estate prices in eighteen major cities across the U.S. between 2007 and 2017. 
 
@@ -30,11 +30,10 @@ Bussed Out - How American moves its Homeless (article) . The Guardian. Published
 Homelessness in the United States: Trends and demographics (article). Journalist’s Resource. Harvard Kennedy School Shorenstein Center on Media, Politics and Public Policy. Published online: 4 December 2014 https://journalistsresource.org/studies/government/health-care/homelessness-u-s-trends-demographics
 
 Rough Breakdown of Tasks -
-1.Search for homelessness and real estate estate datasets - HUD and Zillow
-2.Clean up and combine HUD and Zillow datasets
+1.Search for homelessness and real estate estate datasets - HUD and Zillow.
+2.Clean up and combine HUD and Zillow datasets.
 3.Define at what level (city/county/state) we want to look at homeless counts - dependent on HUD data.
 4.Analyze and  plot the data to answer our research questions - ~2 plots/graphs from each team member.
 5.Describe/explain plots in the bigger context. Challenges?
 6.Clean up code and upload to Github.
 7.Prepare slide presentation and markdown files.
-
