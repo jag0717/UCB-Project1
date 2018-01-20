@@ -1169,15 +1169,15 @@ plt.show()
 
 ## Summary
 
-A scatterplot of home prices versus homelessness for 18 major cities across the U.S., does not show a clear positive correlation between these two variables. The data does indicate a pocket with high homeless counts, in areas where estimated median home values are between ~400-700K.
+1. A scatterplot of home prices versus homelessness for 18 major cities across the U.S., does not show a clear positive correlation between these two variables. The data does indicate a pocket with high homeless counts, in areas where estimated median home values are between ~400-700K.
 
-A closer look at for four different cities (San Francisco, Los Angeles, New York and Miami) shows a positive correlation between these two variables from 2012 until 2017.
+2. A closer look at for four different cities (San Francisco, Los Angeles, New York and Miami) shows a positive correlation between these two variables from 2012 until 2017.
 
-Homelessness in the U.S. decreased by 14% since 2007, based on HUD’s CoC (Continuum of Care) counts. 
+3. Homelessness in the U.S. decreased by 14% since 2007, based on HUD’s CoC (Continuum of Care) counts. 
 Because one explanation is that there is a great deal of variation in the data in different parts of the country, however, many places continue to see reductions in homelessness. Thirty (30) states and the District of Columbia reported decreases in homelessness between 2016 and 2017. Challenges in some major metropolitan areas, however, have had a major impact on the national trend lines.
 
-At the state level, homeless counts decrease between 2007 and 2017 for almost all states, with the exception of HI, DC, MA, NY.
+4. At the state level, homeless counts decrease between 2007 and 2017 for almost all states, with the exception of HI, DC, MA, NY.
 
-Demographics Summary (By Gender)
+5. Demographics Summary (By Gender)
 * New York - almost equal proportion of males and females
 * California and Florida - ~2:1 male to female ratio
