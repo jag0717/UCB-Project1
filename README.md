@@ -25,7 +25,7 @@ CoC Homeless Populations and Subpopulations Reports-
 https://www.hudexchange.info/programs/coc/coc-homeless-populations-and-subpopulations-reports/ 
 
 ### References:
-Bussed Out - How American moves its Homeless (article) . The Guardian. Published online: 20 December 2017 https://www.theguardian.com/us-news/ng-interactive/2017/dec/20/bussed-out-america-moves-homeless-people-country-study 
+Bussed Out - How America moves its Homeless (article) . The Guardian. Published online: 20 December 2017 https://www.theguardian.com/us-news/ng-interactive/2017/dec/20/bussed-out-america-moves-homeless-people-country-study 
 
 Homelessness in the United States: Trends and demographics (article). Journalist’s Resource. Harvard Kennedy School Shorenstein Center on Media, Politics and Public Policy. Published online: 4 December 2014 https://journalistsresource.org/studies/government/health-care/homelessness-u-s-trends-demographics
 
